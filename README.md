@@ -1,5 +1,4 @@
 # Portfolio Website
 
-This is the repository for my personal website.
+This is the repository for my old personal website.
 
-The website can be accessed [here](https://nithishk.com)
